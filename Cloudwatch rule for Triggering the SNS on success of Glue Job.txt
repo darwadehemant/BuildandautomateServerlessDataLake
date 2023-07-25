@@ -1,0 +1,16 @@
+{
+  "source": [
+    "aws.glue"
+  ],
+  "detail-type": [
+    "Glue Job State Change"
+  ],
+  "detail": {
+    "jobName": [
+      "{Put your Job name here}"
+    ],
+    "state": [
+      "SUCCEEDED"
+    ]
+  }
+}
